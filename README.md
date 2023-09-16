@@ -12,7 +12,7 @@ You should have **Python** on your machine or you can follow [this](https://wiki
 
 Just clone this repo locally and that's it:
 
-    `git clone https://github.com/Sheko100/mat3edsh.git`
+    git clone https://github.com/Sheko100/mat3edsh.git
 
 (**PyPDF2** library included in the repo) 
 
@@ -20,10 +20,10 @@ Just clone this repo locally and that's it:
 
 ### On Linux:
 
-    `./mat3edsh.py <pdf_file_name>`
+    ./mat3edsh.py <pdf_file_name>
 for example:
 
-    `./mat3edsh.py "Crime and Punishment.pdf"`
+    ./mat3edsh.py "Crime and Punishment.pdf"
 ### On Windows:
 
 Still not tested...
